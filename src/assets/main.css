@@ -2,10 +2,18 @@
 body {
   font-family: 'Helvetica Neue', serif;
   font-size: 18px;
+  background-color: black;
 }
-
+h1{
+  color:red;
+  border-style: dashed;
+  border-color: red;
+  text-align: center;
+  margin-bottom: 300px;
+}
 #badges {
   text-align: center;
+  border: 3px solid red;
 }
 
 .course {
